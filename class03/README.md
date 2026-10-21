@@ -14,6 +14,6 @@ RNNs have limited memory, so with long texts they lose the thread. The solution 
 
 **ChatGPT.** They trained GPT-3 with human feedback so it follows instructions and talks like an assistant, and that became ChatGPT. People discovered that adding "think step by step" to a prompt makes the answers better. After that came tools and agents, where the model can use other programs and systems. Karpathy compares an LLM to the kernel of a new operating system, with the context window working like RAM.
 
-**The big debate.** Is it really thinking? Chomsky says it's "glorified autofill". Hinton says it really understands the meaning. Some people see these models as a mirror that reflects our own thoughts. Others say that if it looks like thought, it is thought. The video ends with ELIZA, an old simple chatbot that made people feel understood even though it understood nothing.
+Is it really thinking? Chomsky says it's "glorified autofill". Hinton says it really understands the meaning. Some people see these models as a mirror that reflects our own thoughts. Others say that if it looks like thought, it is thought. The video ends with ELIZA, an old simple chatbot that made people feel understood even though it understood nothing.
 
 > the line between simulating thought and actual thought is becoming ever more blurred or perhaps there is no line.
