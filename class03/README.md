@@ -16,4 +16,64 @@ RNNs have limited memory, so with long texts they lose the thread. The solution 
 
 Is it really thinking? Chomsky says it's "glorified autofill". Hinton says it really understands the meaning. Some people see these models as a mirror that reflects our own thoughts. Others say that if it looks like thought, it is thought. The video ends with ELIZA, an old simple chatbot that made people feel understood even though it understood nothing.
 
-> the line between simulating thought and actual thought is becoming ever more blurred or perhaps there is no line.
+> the line between simulating thought and actual thought is becoming even more blurred or perhaps there is no line.
+
+## AI & ART
+
+What do we consider ART?
+
+**A cultural category:** Arthur Danto introduced "artworld", two visual identical objects may have different meanings when one is presented as an artwork and the other everyday object.
+
+To understand the work as art, we need to consider its historical moment, the artist intention, and other points. Viewers interpret it through their own cultural experiences and expectations
+
+**As an antenna:** Marshall McLuhan described art as a kind of early-warning system, or radar, for changes brought about new media. 
+
+### So how do we know when something is art? its...
+
+* context and history
+* recognition and interpretation
+* artist intention and research
+* relationship with the audience and institution
+
+
+* What tech is used?
+* how does the artist interact with the machine?
+* why do we consider it art?
+* What themes and questions do the artworks explore?
+
+1. Gordon Pask - Musicolor
+    * Musical intelligence, ruled based, analog
+    * The system acted as an extension of the artist, a dynamic interaction between them
+    * nose
+    * nose
+  
+2. Harold Cohen - AARON
+   * ruled based, analog
+   * as a servant
+   * nose
+   * the machine was capable of producing images the artist had not predetermined
+  
+3. Karl Sims - Genetic images
+   * digital and analog
+   * nose
+   * nose
+   * nose
+  
+4. Obvious - Edmond de Belamy
+   * analog and digital, machine learning, GAN
+   * the artist programmed it
+   * I do not
+   * nose
+
+5. Mario Klingemann - Memories of passersby I
+   * Digital
+   * nose
+   * nose
+   * nose
+
+7. Memo Akten - Deep Meditations
+   * digital
+   * nose
+   * nose
+   * nose
+     
