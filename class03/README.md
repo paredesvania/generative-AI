@@ -1,6 +1,6 @@
 # 21 OCT
 
-## Notes: The 35 Year History of ChatGPT**
+## Notes: The 35 Year History of ChatGPT
 
 The video's main point is that ChatGPT didn't come out of nowhere. Researchers spent about 35 years on one simple task: **predicting the next word (or letter)**. Doing that with bigger and bigger networks made them learn language, and even concepts, without anyone teaching them.
 
