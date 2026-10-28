@@ -90,7 +90,7 @@ To understand the work as art, we need to consider its historical moment, the ar
 * Themes: Consent and ownership of the voice and training data, ethics of datasets, authorship, and human–AI co-creation.
 
 17. Paul Trillo — Washed Out, The Hardest Part (2024)
-Technical system: Text-to-video generative AI (the video was made with OpenAI’s Sora).
-Human–machine relationship: The director writes prompts, iterates, selects and edits. The AI generates the footage, while the creative vision and the narrative structure are human.
-Artistic context: A music video recognised in the film and video world (Vimeo Staff Pick), which places it within established audiovisual practice. Its value comes from direction and editing, not just the technology. Following McLuhan, it is an “antenna” experimenting with a new medium.
-Themes: Memory, time and nostalgia, the continuous “zoom” aesthetic, the boundary between real and synthetic imagery, and the future of filmmaking.
+* Technical system: Text-to-video generative AI (the video was made with OpenAI’s Sora).
+* Human–machine relationship: The director writes prompts, iterates, selects and edits. The AI generates the footage, while the creative vision and the narrative structure are human.
+* Artistic context: A music video recognised in the film and video world (Vimeo Staff Pick), which places it within established audiovisual practice. Its value comes from direction and editing, not just the technology. Following McLuhan, it is an “antenna” experimenting with a new medium.
+* Themes: Memory, time and nostalgia, the continuous “zoom” aesthetic, the boundary between real and synthetic imagery, and the future of filmmaking.
